@@ -41,7 +41,7 @@
 <div align="center">
  <a href = "mailto:fernandacamposcavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/maria-fernanda-cavalcante-135633327/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- <a href="https://www.instagram.com/iamfeh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&instagram&logoColor=white" target="_blank"></a>  
+ <a href="https://www.instagram.com/iamfeh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&instagram&logoColor=white" target="_blank"></a>  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&section=footer"/>
