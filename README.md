@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mafe519&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" alt="Maria Fernanda github status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafe519&layout=compact&hide_border=true&theme=dracula" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafe519&layout=compact&hide_border=true&theme=dracula" />
   
 </div>
 
