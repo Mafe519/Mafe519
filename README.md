@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00nfnf&size=35&center=true&vCenter=true&width=1000&lines=Hello, World!;Maria+Here!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00nfnf&size=35&center=true&vCenter=true&width=1000&lines=Hello,World!;Maria+Here!;+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mafe519&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true&count_private=true" alt="Maria Fernanda github status" /> 
